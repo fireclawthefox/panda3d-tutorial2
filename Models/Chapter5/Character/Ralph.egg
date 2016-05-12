@@ -1,8 +1,5 @@
 <CoordinateSystem> { Z-Up }
 
-<Comment> {
-  "egg-trans -tbnall -o /home/fireclaw/Workspace/panda3d-tutorial2-blender/Models/Chapter2/Ralph/export/Ralph.egg /home/fireclaw/Workspace/panda3d-tutorial2-blender/Models/Chapter2/Ralph/export/Ralph.egg"
-}
 <Texture> Ralph_NM {
   Ralph_NM.png
   <Scalar> wrap { repeat }
@@ -16617,7 +16614,7 @@
       }
     }
     <Tag> prop {
-      
+
     }
     <VertexPool> Ralph {
       <Vertex> 0 {
