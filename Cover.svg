@@ -17,9 +17,9 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="Cover.svg"
-   inkscape:export-filename="/home/fireclaw/Workspace/panda3d-tutorial2-blender/Cover.png"
-   inkscape:export-xdpi="300.01077"
-   inkscape:export-ydpi="300.01077">
+   inkscape:export-filename="/home/fireclaw/Workspace/panda3d-tutorial2/Cover_tiny.png"
+   inkscape:export-xdpi="11.973064"
+   inkscape:export-ydpi="11.973064">
   <title
      id="title3053">Panda3D Geme Dev Tutorial Cover</title>
   <defs
@@ -254,7 +254,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.62434162"
-     inkscape:cx="125.50686"
+     inkscape:cx="-182.01709"
      inkscape:cy="596.20859"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
